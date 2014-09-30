@@ -6,5 +6,8 @@
 		"joi": "*",
 		"boom": "*",
 		"underscore": "*"
+	},
+	"devDependencies": {
+		"lab": "*"
 	}
 }
